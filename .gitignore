@@ -1,0 +1,10 @@
+# Data folders
+bdd100k/
+
+# Python folders
+.venv
+
+# Model files
+deploy.prototxt
+mobilenet_iter_73000.caffemodel
+
